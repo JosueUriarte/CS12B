@@ -1,0 +1,23 @@
+#Josue Uriarte Reyes
+#joauriar@ucsc.edu
+#CS12M Lab 5
+#02/24/19
+
+Files Submitting:
+
+Dictionary.c
+DictionaryClient.c
+DictionaryTest.c
+Dictoinary.h
+Makefile
+README
+
+NOTES:
+
+-You can test my DictionaryTest file by doing "make test" and you can
+run it by doing DictionaryTest
+
+-"make testclean" will clean only the .o files created by DictionaryTest.c
+
+-"make clean" cleans all the .o files and all the EXE's created by
+DictionaryClient and DictionaryTest

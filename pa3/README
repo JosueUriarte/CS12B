@@ -1,0 +1,20 @@
+Josue Uriarte Reyes
+joauriar@ucsc.edu
+CS12M pa3
+02/18/19
+
+Files Submitting:
+
+README
+Makefile
+DictionaryClient.java
+Dictionary.java
+DictionaryTest.java
+DictionaryInterface.java
+KeyNotFoundException.java
+DuplicateKeyException.java
+
+
+Notes:
+Using the simpler and recommended option for storing pairs
+

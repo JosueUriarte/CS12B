@@ -1,0 +1,9 @@
+files submitting:
+
+DictionaryInterface.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryClient.java
+Dictionary.java
+Makefile
+README

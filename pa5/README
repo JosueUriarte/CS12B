@@ -1,0 +1,8 @@
+files submitting:
+
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile
+README
